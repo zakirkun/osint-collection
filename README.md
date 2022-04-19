@@ -1,6 +1,6 @@
 ## OSINT Collection
 
-> Osint collection to make it easier to find the best choice of toolsOsint collection to make it easier to find the best choice of tools
+> Osint collection to make it easier to find the best choice of tools
 
 
 | Name | Repository |
@@ -21,6 +21,15 @@
 | Osint Tools Stuff | https://github.com/cipher387/osint_stuff_tool_collection
 | Social Research | https://www.social-searcher.com/
 | WhatsMyName | https://whatsmyname.app/
+| Spiderfoot | [https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot "https://github.com/smicallef/spiderfoot")
+| Trape | https://github.com/jofpin/trape
+| Phoneinfoga | https://github.com/sundowndev/phoneinfoga
+| TheHarvester | [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester "https://github.com/laramies/theHarvester")
+| Instaloader | https://github.com/instaloader/instaloader
+| Exiftool | https://github.com/exiftool/exiftool
+| Holehe | https://github.com/megadose/holehe
+| H8mail | https://github.com/khast3x/h8mail
+| IntelOwl | https://github.com/intelowlproject/IntelOwl
 
 ## Osint cheat sheet
 
