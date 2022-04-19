@@ -18,7 +18,9 @@
 | GHunt | [https://github.com/mxrch/GHunt](https://github.com/mxrch/GHunt "https://github.com/mxrch/GHunt")
 | Linkedin2username | [https://github.com/initstring/linkedin2username](https://github.com/initstring/linkedin2username "https://github.com/initstring/linkedin2username")
 | Mosint | https://github.com/alpkeskin/mosint
-|
+| Osint Tools Stuff | https://github.com/cipher387/osint_stuff_tool_collection
+| Social Research | https://www.social-searcher.com/
+| WhatsMyName | https://whatsmyname.app/
 
 ## Osint cheat sheet
 
